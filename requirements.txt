@@ -1,0 +1,10 @@
+webrtcvad==2.0.10
+soundfile==0.12.1
+numpy>=1.21.0
+sounddevice==0.4.6
+scipy>=1.7.0
+pyannote.audio==3.1.1
+torch>=2.0.0
+torchaudio>=2.0.0
+librosa>=0.10.0
+scikit-learn>=1.0.0
