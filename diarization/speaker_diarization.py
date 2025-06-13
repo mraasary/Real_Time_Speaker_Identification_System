@@ -11,7 +11,7 @@ import webbrowser
 class SpeakerDiarizer:
     def __init__(self):
         # Get Hugging Face token from environment variable
-        hf_token = os.getenv('HF_TOKEN', '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')
+        hf_token = os.getenv('HF_TOKEN', 'Your hugging face token')
         
         try:
             # Check if user has accepted the agreement
